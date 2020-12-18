@@ -1,17 +1,5 @@
 ### Belerofontech specific ignored items ###
-/belerolib
-log-rotate.state
-keys/
-ebocacloud/
-ebocacloud-sync/
-/datamodels/
-/datasources/
-/datasources_preliminares/
-/dataunderstanding/televend*
-# SharePy (Python lib for SharePoint authentication) stored session
-sp-session.pkl
-# Pyomo temporary files
-tmp*.pyomo.lp
+desktop.ini
 # Python virtual environments
 .env
 .venv
