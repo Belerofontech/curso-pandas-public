@@ -11,6 +11,8 @@ stringy = "patata"
 
 print(cadena + " " + stringy)
 # Listas
+lista = [x for x in range(100)]
+print(lista)
 
 # Diccionarios
 
